@@ -1,2 +1,9 @@
 # Bangla-Sign-Language
-This is collection of Bangla Hand sign language
+
+# prerequisite
+
+- Python
+
+# About this Project
+  
+- This is collection of Bangla Hand sign language
